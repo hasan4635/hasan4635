@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753601788215",
+    "project_id": "mobilappv2",
+    "storage_bucket": "mobilappv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753601788215:android:7f0292fe70e256edbbc2b2",
+        "android_client_info": {
+          "package_name": "com.ozaydinpide.merchantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753601788215-ok2n46750igkpl3qqp1llhqbk8fvr8v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ3lBR0I3aNWPelbhdhdljx5tDDqHmQBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753601788215-ok2n46750igkpl3qqp1llhqbk8fvr8v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
